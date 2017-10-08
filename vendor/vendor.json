@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "I93JfxJ7khsncN6ziQb1xpUB+Ns=",
+			"path": "github.com/spaolacci/murmur3",
+			"revision": "9f5d223c60793748f04a9d5b4b4eacddfc1f755d",
+			"revisionTime": "2017-08-19T07:11:01Z"
+		}
+	],
+	"rootPath": "github.com/cameronnewman/cli.murmur3"
+}
