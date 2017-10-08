@@ -8,5 +8,5 @@ Usage
 
 ```
 lappy:~ root$ ./cli.murmur3 --value foo --hash 128
-Value: foo Hash: 3fyvfcqmi0bq9
+3fyvfcqmi0bq9
 ```
