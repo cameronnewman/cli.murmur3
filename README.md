@@ -12,7 +12,7 @@
 [5]: https://goreportcard.com/badge/github.com/cameronnewman/cli.murmur3
 [6]: https://goreportcard.com/report/github.com/cameronnewman/cli.murmur3
 [7]: https://codecov.io/gh/cameronnewman/murmur3cli/branch/master/graph/badge.svg
-[8]; https://codecov.io/gh/cameronnewman/murmur3cl
+[8]: https://codecov.io/gh/cameronnewman/murmur3cl
 
 ## Purpose
 
